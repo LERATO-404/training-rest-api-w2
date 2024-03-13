@@ -1,0 +1,299 @@
+2023-10-06 00:52:46,115 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 00:53:37,109 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 00:55:38,539 [24] INFO PersonnelController - PersonnelController - GET:  api/Personnel/10
+2023-10-06 00:57:01,141 [27] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 00:57:23,568 [34] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 00:57:30,988 [36] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-06 00:57:43,839 [25] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-06 00:58:32,255 [38] INFO PersonnelController - PersonnelController - GET:  api/Personnel/10
+2023-10-06 00:58:41,139 [34] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 06:36:48,441 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 06:38:22,288 [23] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 06:38:50,431 [31] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 06:38:56,805 [31] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 08:53:21,563 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:35:39,004 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:36:47,572 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:40:18,682 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:41:00,949 [8] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:42:08,124 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:43:09,312 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:44:54,416 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:45:18,913 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:46:12,733 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:46:36,235 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:46:48,645 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:51:11,532 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:51:36,203 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:52:27,859 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:52:48,599 [15] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 09:54:39,096 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 09:55:39,589 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:08:04,645 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:10:57,865 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:13:17,412 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:13:34,135 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 10:13:56,770 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:14:08,573 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 10:14:23,248 [3] ERROR PersonnelController - PersonnelController - GET:  api/Personnel - Not Found / invalid personnel, logged in UserName: JohnDoe.  Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at ParcelDeliveryTrackingAPI.Controllers.PersonnelController.GetAllPersonnel() in C:\Users\local.user\Desktop\REST API Week 2\LO_Parcel-Delivery-Tracking_WEBAPI\ParcelDeliveryTrackingAPI\Controllers\PersonnelController.cs:line 68
+2023-10-06 10:19:36,091 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:23:21,918 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:24:45,774 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:25:59,726 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:27:45,505 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:31:40,490 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:31:56,540 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:32:48,626 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:33:01,057 [3] INFO PersonnelController - PersonnelsController - GET:  api/Personnel
+2023-10-06 10:34:00,454 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:35:02,067 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:35:18,634 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 10:42:38,657 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:44:29,134 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:45:07,060 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-06 10:46:44,475 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:47:05,489 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-06 10:47:27,875 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:47:44,847 [17] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-06 10:48:55,111 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:49:11,629 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-06 10:49:20,052 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel/4
+2023-10-06 10:55:03,132 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:55:17,769 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 10:57:01,830 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 10:57:21,904 [5] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:04:25,490 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:04:52,123 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:05:14,992 [17] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:05:23,667 [8] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:09:09,025 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:09:26,198 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:11:00,697 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:11:16,110 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:11:44,629 [5] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 11:11:56,024 [19] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:12:53,397 [18] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:12:59,994 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:13:27,500 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:15:20,392 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:15:43,029 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:15:50,940 [11] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 11:24:51,139 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:26:07,315 [22] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 11:26:37,033 [26] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 11:36:32,821 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:36:53,131 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:40:01,907 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:40:48,316 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:41:04,811 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-06 11:42:51,100 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:43:08,807 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-06 11:43:23,174 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-06 11:45:18,456 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:48:23,992 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:49:48,791 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 11:52:02,730 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 12:01:04,939 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 12:01:22,277 [8] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 12:02:31,277 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 12:05:04,815 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 12:05:27,694 [17] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 12:07:04,586 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 12:08:29,155 [17] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 12:11:39,607 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 12:13:18,433 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 12:29:39,048 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 12:31:16,219 [8] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 12:32:51,944 [26] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 14:00:28,746 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 15:39:50,282 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 15:41:11,018 [22] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 15:41:33,965 [30] INFO PersonnelController - PersonnelController - GET:  api/Personnel/11
+2023-10-06 15:41:56,150 [30] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 15:42:00,999 [28] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 15:42:14,013 [33] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-06 15:42:26,066 [31] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-06 15:43:22,883 [35] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 15:58:26,066 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 16:04:24,038 [8] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 16:04:40,089 [5] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-06 16:05:03,800 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 16:05:18,120 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 16:05:25,148 [5] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-06 16:05:31,413 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-06 16:29:53,386 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 16:30:14,166 [11] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 17:05:42,380 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 17:40:36,229 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 17:41:55,758 [19] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 17:44:03,536 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 17:44:31,601 [12] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 17:46:06,422 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 17:46:28,330 [17] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 18:58:36,328 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 19:48:53,157 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 19:49:44,227 [25] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 19:58:48,190 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 19:59:45,823 [13] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 20:00:15,917 [21] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-06 20:01:21,612 [22] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 20:01:38,932 [24] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-06 20:01:45,256 [24] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-06 20:01:52,550 [26] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-06 20:02:15,743 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 20:02:37,499 [11] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 20:05:08,607 [6] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-06 20:05:17,294 [23] INFO PersonnelController - PersonnelController - GET:  api/Personnel/12
+2023-10-06 20:47:33,420 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 21:57:00,920 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 22:16:42,206 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-06 22:17:50,502 [17] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-06 22:18:04,885 [24] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-07 23:28:58,498 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-07 23:35:25,118 [28] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-07 23:36:30,167 [37] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-07 23:37:00,996 [41] INFO PersonnelController - PersonnelController - GET:  api/Personnel/11
+2023-10-07 23:39:09,829 [47] INFO PersonnelController - PersonnelController - GET:  api/Personnel/11
+2023-10-07 23:39:49,259 [50] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-07 23:40:11,682 [49] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-07 23:40:28,133 [53] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-07 23:40:40,209 [54] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-07 23:40:48,404 [55] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-07 23:41:03,561 [52] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-08 02:00:25,793 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 02:03:28,044 [30] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 07:52:01,391 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 07:53:41,909 [22] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 07:56:15,092 [34] INFO PersonnelController - PersonnelController - GET:  api/Personnel/12
+2023-10-08 07:58:35,871 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 08:00:11,354 [22] INFO PersonnelController - PersonnelController - GET:  api/Personnel/12
+2023-10-08 08:25:45,302 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 08:26:23,558 [16] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 08:28:06,964 [33] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 08:49:42,281 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 08:51:17,585 [22] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 08:52:30,959 [29] INFO PersonnelController - PersonnelController - GET:  api/Personnel/14
+2023-10-08 08:54:52,355 [36] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 08:55:05,077 [34] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 08:55:30,421 [24] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 08:55:38,283 [39] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 08:55:46,710 [38] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-08 08:56:17,279 [34] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-08 09:00:11,522 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 09:08:03,822 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 09:09:22,798 [5] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 09:38:50,255 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 09:59:34,786 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:02:19,548 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:04:06,336 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:09:16,559 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:13:20,730 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:20:24,406 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:20:49,396 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:23:13,808 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 10:24:16,087 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:14:53,505 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:17:20,462 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:26:05,743 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:31:55,995 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:33:10,069 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:52:55,420 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 11:58:06,526 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 12:04:02,979 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 12:05:11,000 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 12:32:45,484 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 12:44:25,897 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 12:53:20,478 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 13:30:06,247 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 13:33:17,990 [27] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 13:34:20,014 [35] INFO PersonnelController - PersonnelController - GET:  api/Personnel/15
+2023-10-08 13:35:47,444 [38] INFO PersonnelController - PersonnelController - GET:  api/Personnel/15
+2023-10-08 13:36:03,108 [38] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 13:36:18,860 [37] INFO PersonnelController - PersonnelController - GET:  api/Personnel/15
+2023-10-08 13:36:25,832 [21] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-08 13:36:31,959 [38] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-08 13:36:46,848 [38] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-08 13:36:59,478 [21] INFO PersonnelController - PersonnelController - GET:  api/Personnel/15
+2023-10-08 13:39:24,170 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 16:08:40,489 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 16:12:44,038 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 16:45:59,350 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 16:53:16,244 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 16:54:39,104 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:05:42,909 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:21:54,276 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:23:24,278 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:25:47,851 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:26:54,823 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:29:53,991 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:48:43,271 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 17:56:55,787 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 18:05:46,416 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 18:34:54,251 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 19:08:11,895 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 19:09:44,261 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 19:13:24,721 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 19:16:08,944 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 21:17:31,746 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 21:21:11,650 [40] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-08 21:27:11,042 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 21:33:55,517 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 21:36:30,012 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 21:45:38,481 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 21:55:20,729 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 22:02:55,929 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-08 22:08:43,480 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 01:35:55,074 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 01:41:18,313 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 01:41:58,903 [3] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-09 01:42:17,535 [21] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-09 01:57:10,730 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 09:04:17,218 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 09:04:46,786 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 09:09:15,809 [19] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries
+2023-10-09 09:09:23,062 [20] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/1
+2023-10-09 09:09:35,368 [21] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/InProgress
+2023-10-09 09:09:40,366 [26] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/Completed
+2023-10-09 09:09:44,648 [27] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/Scheduled
+2023-10-09 09:09:50,049 [26] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/1/deliveries
+2023-10-09 09:09:54,243 [20] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/2/deliveries
+2023-10-09 09:10:04,739 [24] INFO ParcelsController - ParcelsController - GET:  api/Parcels
+2023-10-09 09:10:12,979 [26] INFO ParcelsController - ParcelsController - GET:  api/Parcels/1
+2023-10-09 09:10:30,126 [27] INFO ParcelsController - ParcelsController - DELETE:  api/Parcels/14
+2023-10-09 09:10:35,708 [27] INFO ParcelsController - ParcelsController - GET:  api/Parcels/Delivered
+2023-10-09 09:10:39,984 [26] INFO ParcelsController - ParcelsController - GET:  api/Parcels/InTransit
+2023-10-09 09:10:51,830 [26] INFO ParcelsController - ParcelsController - GET:  api/Parcels/1/parcels
+2023-10-09 09:10:56,828 [26] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-09 09:11:04,286 [27] INFO PersonnelController - PersonnelController - GET:  api/Personnel/1
+2023-10-09 09:11:25,655 [27] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-09 09:11:30,962 [28] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-09 09:11:35,306 [30] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-09 09:24:18,956 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 09:57:11,405 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 10:00:18,885 [29] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries
+2023-10-09 10:00:29,590 [30] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/1
+2023-10-09 10:00:36,905 [30] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/InProgress
+2023-10-09 10:00:43,459 [29] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/Completed
+2023-10-09 10:00:56,857 [30] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/Scheduled
+2023-10-09 10:01:17,449 [30] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/1/deliveries
+2023-10-09 10:01:24,032 [32] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/3/deliveries
+2023-10-09 10:01:28,077 [31] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/2/deliveries
+2023-10-09 10:01:32,200 [33] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries/4/deliveries
+2023-10-09 10:02:01,662 [32] INFO ParcelsController - ParcelsController - GET:  api/Parcels
+2023-10-09 10:02:36,242 [33] INFO ParcelsController - ParcelsController - POST:  api/Parcels
+2023-10-09 10:02:46,942 [30] INFO ParcelsController - ParcelsController - GET:  api/Parcels/16
+2023-10-09 10:02:58,238 [34] INFO ParcelsController - ParcelsController - GET:  api/Parcels/Delivered
+2023-10-09 10:03:04,875 [33] INFO ParcelsController - ParcelsController - GET:  api/Parcels/InTransit
+2023-10-09 10:03:16,643 [35] INFO ParcelsController - ParcelsController - GET:  api/Parcels/1/parcels
+2023-10-09 10:03:39,991 [36] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-09 10:04:20,127 [36] INFO PersonnelController - PersonnelController - GET:  api/Personnel/16
+2023-10-09 10:05:39,607 [37] INFO PersonnelController - PersonnelController - GET:  api/Personnel/16
+2023-10-09 10:05:55,931 [41] INFO PersonnelController - PersonnelController - GET:  api/Personnel/16
+2023-10-09 10:06:06,237 [25] INFO PersonnelController - PersonnelController - GET:  api/Personnel
+2023-10-09 10:06:19,682 [42] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-09 10:06:26,991 [42] INFO PersonnelController - PersonnelController - GET:  api/Personnel/fullname
+2023-10-09 10:06:35,671 [40] INFO PersonnelController - PersonnelController - GET:  api/Personnel/onduty
+2023-10-09 10:06:49,525 [41] INFO PersonnelController - PersonnelController - GET:  api/Personnel/offduty
+2023-10-09 11:14:28,367 [1] INFO Program.main method - Parcel Delivery Tracking REST API Started!
+2023-10-09 11:16:30,155 [19] INFO DeliveriesController - DeliveriesController - GET: api/Deliveries
